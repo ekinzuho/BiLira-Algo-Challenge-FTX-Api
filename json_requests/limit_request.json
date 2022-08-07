@@ -1,0 +1,8 @@
+{
+"Action": "buy",
+"Base_currency": "USD",
+"Quote_currency": "SOL",
+"Amount":"164",
+"Price": 0.025,
+"Number_of_iceberg_order": 4
+}

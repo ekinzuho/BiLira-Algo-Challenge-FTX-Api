@@ -1,0 +1,6 @@
+{
+"action": "buy",
+"base_currency": "BTC",
+"quote_currency": "USD",
+"amount": "1.5"
+}
